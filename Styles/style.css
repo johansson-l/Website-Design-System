@@ -58,3 +58,37 @@ body {
     display: inline-block;
     width: 45%;
 }
+
+.ubuntu {
+    font-family: 'Ubuntu';
+}
+
+.oswald {
+    font-family: 'Oswald';
+}
+
+.bebas-neue {
+    font-family: 'Bebas_Neue';
+}
+
+.amatic-sc {
+    font-family: 'Amatic_SC';
+}
+
+.font-label {
+    font-size: 24px;
+    text-decoration: underline;
+}
+
+.font-regular {
+    font-size: 20px;
+}
+.font-bold {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.font-italic {
+    font-size: 20px;
+    font-style: italic;
+}
